@@ -1,0 +1,15 @@
+{
+  "name": "proton",
+  "version": "0.1.0",
+  "description": "A javascript based SCAD editor",
+  "author": "Edwin Bosveld <esbosveld@gmail.com>",
+  "homepage": "https://github.com/Inwy/proton",
+  "private": true,
+  "build": {
+    "config": {
+      "bowerDir": "bower_components",
+      "src": "app",
+      "dest": "www"
+    }
+  }
+}

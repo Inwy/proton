@@ -1,0 +1,19 @@
+{
+  "name": "proton",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "angular": "1.3.15",
+    "angular-resource": "1.3.15",
+    "angular-sanitize": "1.3.15",
+    "angular-animate": "1.3.15",
+    "angular-route": "1.3.15",
+    "angular-ui-router": "0.2.15",
+    "underscore": "1.8.3"
+  },
+  "description": "A javascript based SCAD editor",
+  "homepage": "https://github.com/Inwy/proton",
+  "authors": [
+    "Edwin Bosveld <esbosveld@gmail.com>"
+  ]
+}
